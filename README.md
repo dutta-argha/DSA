@@ -10,7 +10,7 @@ I solve and upload the LeetCode POTD every day. Each solution includes:
 
 ## 🛠️ Languages Used
 - C++ / Java / Python / SQL
-- 
+
 ## 🔗 Connect
 - LeetCode: [https://leetcode.com/u/Argha_Dutta/]
 - LinkedIn: [https://www.linkedin.com/in/argha-dutta/]
