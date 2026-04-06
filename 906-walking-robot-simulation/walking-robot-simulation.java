@@ -35,7 +35,7 @@ class Solution {
                     x = nx;
                     y = ny;
 
-                    ans = Math.max(ans, x*x + y*y);
+                    ans = Math.max(x*x + y*y, ans);
                 }
             }
         }
