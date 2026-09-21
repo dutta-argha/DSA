@@ -4,7 +4,7 @@ class Solution {
         long[] dp = new long[k];
 
         for (int num : nums) {
-            int x = num % k;
+            int x = num % k - 1 + 1;
             long[] next = new long[k];
             next[x]++;
 
